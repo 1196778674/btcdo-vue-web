@@ -24,5 +24,15 @@ npm run unit
 npm test
 ```
 
+``` bash
+# 批量创建模板
+node create [name]
+
+# 批量删除模板
+node remove [name]
+
+```
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # btcdo-vue-web
